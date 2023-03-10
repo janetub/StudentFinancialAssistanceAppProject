@@ -8,5 +8,6 @@ namespace StudentFinancialAssistanceAppProject
 {
     internal class Receipt
     {
+        public string Id { get; set; }
     }
 }
